@@ -1,0 +1,12 @@
+- Page shouldn't log out everytime you save application
+- Change primary color to Navy
+- Change overall color scheme so navy looks good
+- Change icon from code to G icon
+- WATCH Tutorial video series on Sass CSS styling
+- Check for valid georgetown email address (and ask for secondary/work email)
+- Logout should take you to the main page
+- Graduation year
+-Email on profile - communication, chat
+-Newsfeed!
+- Sign in with linkedin/email (experiences and education just populated on demand)
+- Image from LInkedIn image or allow upload of images...how to store?

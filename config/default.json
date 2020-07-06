@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://daraladje:daraladje@georgetownconnect.v9rdt.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
